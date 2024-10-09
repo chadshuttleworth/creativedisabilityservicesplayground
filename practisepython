@@ -1,1 +1,4 @@
+import random
 
+random = rand(1,100)
+Print = random
