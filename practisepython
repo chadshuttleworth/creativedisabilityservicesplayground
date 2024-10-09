@@ -1,4 +1,4 @@
 import random
 
-random = rand(1,100)
-Print = random
+ra = random.randint(1,100)
+Print = ra
